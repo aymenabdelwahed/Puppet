@@ -1,1 +1,1 @@
-# Puppet
+# Puppet code
